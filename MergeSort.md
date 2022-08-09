@@ -28,3 +28,6 @@
 logn = x
 
 O(nlogn)
+
+
+[Patika.dev](https://www.patika.dev/tr)
